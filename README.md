@@ -1,8 +1,3 @@
-# Attack-Lab
+# About this Repository
 
-A brief walkthrough of the buffer overflow attack known as Attack Lab or Buffer Bomb in Computer Systems course.
-
-There are 5 phases of the lab and your mission is to come up with a exploit strings that will enable you take control of the 
-executable file and do as you wish. 
-
-The first 3 phases include injecting small code while the last 2 utilize the ROP (Return Oriented Programming) exploit.
+This is my contribution to my group's Data Mining project. I utilized feature engineering to make some of our other classification models more effective. To measure the increase in effectiveness I pitted multiple versions of the dataset (raw, combined, and engineered) against each other using a naive bayes classifier.
